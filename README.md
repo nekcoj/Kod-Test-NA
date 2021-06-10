@@ -8,7 +8,9 @@
 
 # Run FRONTEND
 
-1. open terminal in frontend folder or [cd frontend] from project folder
-2. npm install
-2. npm run serve
+1. make sure you have NodeJS installed on your system
+2. open a new terminal in frontend folder
+3. npm install
+4. npm run serve
+5. Go to localhost:8080 and click the login link to test the backend.
 
